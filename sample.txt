@@ -1,2 +1,3 @@
 Hi, I am abhishek goyal starts to learn git.
 git diff is a command. Hello how are you?
+my changes also have to commit
