@@ -1,1 +1,2 @@
 Hi, I am abhishek goyal starts to learn git.
+git diff is a command.
